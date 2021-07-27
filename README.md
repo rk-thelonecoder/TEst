@@ -1,2 +1,4 @@
 # TEst
-i am new to git hub so i am creating this git hub repository just to check what it is avtually
+this is what i am doing 
+so i am trying to master the github
+so i am willing to know what actually this thing is
